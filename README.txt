@@ -1,0 +1,2 @@
+Two codes for finding the unique polynomial that goes through a set of given points. One uses the Lagrange method and the other uses Newton Divider Difference method.
+The Newton DD method can also apporximate the unique polynomial by only taking terms up to a given order
